@@ -1,0 +1,10 @@
+# Игнорировать папку tmp/
+tmp/
+
+# Игнорировать файлы, заканчивающиеся на _old или _backup
+*_old
+*_backup
+
+# Игнорировать Thumbs.db (Windows) и .DS_Store (macOS)
+Thumbs.db
+.DS_Store
